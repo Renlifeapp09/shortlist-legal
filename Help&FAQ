@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Help &amp; FAQ — The Shortlist</title>
+<meta name="description" content="Answers to common questions about The Shortlist, and how to reach us.">
+<style>
+  :root {
+    --warm-white: #faf9f7;
+    --black: #1a1a1a;
+    --brown-text: #6a5e4d;
+    --brown: #8b7d6b;
+    --light: #e8e4df;
+    --mint: #d6ede6;
+    --mint-text: #2a6b55;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --warm-white: #16150f;
+      --black: #f2efe9;
+      --brown-text: #b9ae9b;
+      --brown: #9b8e79;
+      --light: #2e2b25;
+      --mint: #1d3730;
+      --mint-text: #8fcfb6;
+    }
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    padding: 0 16px 72px;
+    background: var(--warm-white);
+    color: var(--black);
+    font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+          "Helvetica Neue", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  main { max-width: 640px; margin: 0 auto; }
+
+  header {
+    padding: 56px 0 28px;
+    border-bottom: 1px solid var(--light);
+    margin-bottom: 8px;
+  }
+
+  .eyebrow {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: var(--brown);
+    margin: 0 0 10px;
+  }
+
+  h1 { font-size: 30px; line-height: 1.2; margin: 0 0 12px; letter-spacing: -0.4px; }
+
+  .lede { font-size: 17px; color: var(--brown-text); margin: 0; }
+
+  h2 {
+    font-size: 19px;
+    margin: 44px 0 4px;
+    letter-spacing: -0.2px;
+    padding-top: 20px;
+    border-top: 1px solid var(--light);
+  }
+
+  h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin: 28px 0 6px;
+    color: var(--black);
+  }
+
+  p { margin: 0 0 14px; color: var(--brown-text); }
+
+  a { color: var(--mint-text); text-decoration: underline; text-underline-offset: 2px; }
+  a:hover { text-decoration-thickness: 2px; }
+
+  .card {
+    background: var(--mint);
+    border-radius: 14px;
+    padding: 22px 24px;
+    margin: 12px 0 0;
+  }
+  .card p { color: var(--mint-text); margin: 0; }
+  .card p + p { margin-top: 10px; font-size: 15px; }
+  .card a { color: var(--mint-text); font-weight: 600; }
+  .card .email { font-size: 20px; font-weight: 700; }
+
+  footer {
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--light);
+    font-size: 14px;
+  }
+  footer p { color: var(--brown); font-size: 14px; }
+  footer a { color: var(--brown); }
+</style>
+</head>
+<body>
+<main>
+
+  <header>
+    <p class="eyebrow">The Shortlist</p>
+    <h1>Help &amp; FAQ</h1>
+    <p class="lede">Answers to the questions we get most — and how to reach us if yours isn't here.</p>
+  </header>
+
+  <h2>Logging and your closet</h2>
+
+  <h3>How many items should I log to see insights?</h3>
+  <p>Your logs help the app understand your style and what you like. Five outfit logs unlock the basics, and at eight logs you'll unlock recommendations and deeper insights. It adds up quickly — a week of getting dressed will usually get you there.</p>
+
+  <h3>Why hasn't my photo been analyzed?</h3>
+  <p>It usually takes a few seconds. If an outfit still shows no items after a minute or so, log it again — a fresh attempt almost always works. If it keeps happening, tell us and we'll look into it.</p>
+
+  <h3>It identified one of my items wrong. Can I fix it?</h3>
+  <p>Yes. Open the item in your Closet and edit the name, category, colour or brand. Your corrections stay put, and the app uses what's in your closet when it makes recommendations — so a fix now improves everything after it.</p>
+
+  <h3>Can I type instead of recording a voice note?</h3>
+  <p>Absolutely. The voice note is there because it's quick, not because it's required — tap the text field and type instead.</p>
+
+  <h2>Buy or Pass</h2>
+
+  <h3>How do I get advice on something I'm thinking of buying?</h3>
+  <p>Open the <strong>Buy</strong> tab and add the piece you're considering: a photo, what it is, and the price. The app weighs it against what's already in your closet and what you actually reach for, then gives you a recommendation with the reasoning behind it. You make the call — and whichever way you go, your decision is saved so you can look back at how your choices played out.</p>
+
+  <h3>How many Buy or Pass verdicts do I get?</h3>
+  <p>Two per calendar month on the free plan, resetting on the 1st. Pro is unlimited.</p>
+
+  <h2>Sharing</h2>
+
+  <h3>How do I share an outfit with a friend?</h3>
+  <p>On the outfit confirmation screen, tap <strong>Share with Friends</strong> and choose whether to share it with a friend or with everyone. If you're sharing with a friend, pick who from the list and tap <strong>Select friends to share</strong>.</p>
+  <p>You can also share an outfit later — open it from your logs and use the edit option on the outfit details screen. Nothing you log is visible to anyone until you choose to share it.</p>
+
+  <h3>How do I stop sharing with someone?</h3>
+  <p>Open your <strong>Feed</strong> tab, tap the <strong>⋯</strong> control in the upper right and choose <strong>Block</strong>. They won't see anything you share from then on.</p>
+
+  <h3>Someone shared a photo of me. Can you take it down?</h3>
+  <p>Yes, and you don't need an account to ask. Email us with whatever detail you can give us and we'll remove it.</p>
+
+  <h3>How do I report something in the feed?</h3>
+  <p>Tap the <strong>⋯</strong> control on any shared outfit, or open the profile of the person who posted it, and choose <strong>Report</strong>. You can also block or mute anyone from their profile. We review every report within 24 hours.</p>
+
+  <h2>Shortlist Pro</h2>
+
+  <h3>What do I get with Pro?</h3>
+  <p>Unlimited Buy or Pass verdicts, plus full wardrobe insights and the patterns behind what you actually wear. Current plans and prices are shown in the app — open your profile and tap through to the plans.</p>
+
+  <h3>What happens when my 14 days of Pro end?</h3>
+  <p>You move to the free plan. Nothing is charged and nothing is deleted — your closet, your logs and your history all stay exactly as they are. You keep two verdicts a month, and you can subscribe whenever you're ready.</p>
+
+  <h3>I subscribed but the app still shows me on the free plan.</h3>
+  <p>Open the plans screen and tap <strong>Restore purchases</strong>. That resolves it in almost every case. If it doesn't, email us with the Apple Account you purchased with and we'll get it sorted.</p>
+
+  <h3>How do I change or cancel my subscription?</h3>
+  <p>Subscriptions are billed by Apple, so they're managed there: open the Settings app on your iPhone, tap your name, then <strong>Subscriptions</strong>. You'll keep Pro until the end of the period you've already paid for.</p>
+
+  <h3>How do I get a refund?</h3>
+  <p>Refunds are handled by Apple. Go to <a href="https://reportaproblem.apple.com">reportaproblem.apple.com</a>, sign in with your Apple Account, and request a refund for the purchase.</p>
+
+  <h2>Your account</h2>
+
+  <h3>I've forgotten my password.</h3>
+  <p>Tap <strong>Forgot password</strong> on the sign-in screen and we'll email you a reset link.</p>
+
+  <h3>How do I delete my account?</h3>
+  <p>Open your profile and choose <strong>Delete account</strong>. That removes your account and your data. If you can't sign in to do it, email us from the address on the account.</p>
+
+  <h2>Privacy and your data</h2>
+  <p>Your photos are stored privately. Only you can see them, along with anyone you choose to share an outfit with.</p>
+  <p>Our <a href="https://renlifeapp09.github.io/shortlist-legal/privacy.html">Privacy Policy</a> sets out what we collect, which services process it, and how to request access or deletion. Our <a href="https://renlifeapp09.github.io/shortlist-legal/terms.html">Terms of Service</a> cover the rest, including our content standards.</p>
+
+  <h2>Still need help?</h2>
+  <div class="card">
+    <p class="email"><a href="mailto:support@theshortlistapp.com">support@theshortlistapp.com</a></p>
+    <p>We read every message.</p>
+  </div>
+
+  <footer>
+    <p>The Shortlist is made by Shortlist LLC, San Francisco, California.</p>
+    <p><a href="https://renlifeapp09.github.io/shortlist-legal/terms.html">Terms of Service</a> · <a href="https://renlifeapp09.github.io/shortlist-legal/privacy.html">Privacy Policy</a></p>
+  </footer>
+
+</main>
+</body>
+</html>
